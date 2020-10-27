@@ -1,31 +1,10 @@
 # Boas vindas ao repositório do projeto de _animações_ e _mobile first_!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+## Comentarios
 
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+Esse Projeto foi o primeiro que fiz em quarentena, eu gostei muito de fazer, porque enquanto eu criava uma coisa eu ja pensava em outra pra fazer, usando a animação.
 
----
-
-## O que deverá ser desenvolvido
-
-Você deve criar uma página que se baseie no jornal que circulava pelo universo da história de **Harry Potter**.
-
-Veja alguns exemplos:
-
-- [Página com uma recriação do jornal: O Profeta Diário](https://redonion.se/cssgrid/)
-- [Apresentação de um design do jornal: O Profeta Diário](https://docs.google.com/presentation/d/1yZ2ErHv-ptgR7XZEwr_uOWPMmqjFL6uKGr-XkmfmrWo/edit#slide=id.gd1f3d9fb3_0_4)
-
-Antes de iniciar o projeto, leia atentamente a seção "Entregáveis".
-
----
-
-## Entregáveis
-
-Para entregar o seu projeto você deverá criar um _Pull Request_ para este repositório no **GitHub**.
-
-Este _Pull Request_ deverá conter, necessariamente, os arquivos `index.html`, `style.css` e `script.js`, que conterão seu código **_HTML_**, **_CSS_** e **_JavaScript_**, respectivamente. ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
-
-Você pode adicionar outros arquivos se julgar necessário.
+Esse Projeto me ajudou muito a aprender animação e Flexbox con css
 
 ---
 
